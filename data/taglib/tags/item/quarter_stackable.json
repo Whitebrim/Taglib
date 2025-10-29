@@ -9,6 +9,7 @@
     { "required": false, "id": "minecraft:armor_stand" },
     { "required": false, "id": "minecraft:bucket" },
     { "required": false, "id": "#minecraft:banners" },
-    { "required": false, "id": "#minecraft:signs" }
+    { "required": false, "id": "#minecraft:signs" },
+    { "required": false, "id": "#minecraft:hanging_signs" }
   ]
 }
