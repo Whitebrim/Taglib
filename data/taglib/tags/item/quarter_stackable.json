@@ -4,7 +4,7 @@
     { "required": false, "id": "minecraft:written_book" },
     { "required": false, "id": "minecraft:honey_bottle" },
     { "required": false, "id": "minecraft:snowball" },
-    { "required": false, "id": "minecraft:egg" },
+    { "required": false, "id": "#minecraft:eggs" },
     { "required": false, "id": "minecraft:ender_pearl" },
     { "required": false, "id": "minecraft:armor_stand" },
     { "required": false, "id": "minecraft:bucket" },
