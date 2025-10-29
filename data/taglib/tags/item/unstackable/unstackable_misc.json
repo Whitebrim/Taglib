@@ -96,6 +96,6 @@
 		{
 			"required": false,
 			"id": "#minecraft:harnesses"
-		},
+		}
 	]
 }
